@@ -10,7 +10,7 @@ import io.javalin.core.util.RouteOverviewPlugin;
  * Running this class as regular java application will start the 
  * Javalin HTTP Server and our web application.
  *
- * @author Timothy Wiley, 2023. email: timothy.wiley@rmit.edu.au
+ * @author Timothy, 2023. email: timothy.wiley@rmit.edu.au
  * @author Santha Sumanasekara, 2021. email: santha.sumanasekara@rmit.edu.au
  */
 public class App {
